@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anurag Singh 
 - 👀 I’m interested in IoT, AI , Data analysis , Data visualisation, web development.
-- 🌱 I’m currently learning Data science skills
 - 📫 How to reach me ? 
 
 
